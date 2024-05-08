@@ -7,3 +7,8 @@
 ``` javascript
 var myVar = "Hello, World!"
 ```
+
+### Task list
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
